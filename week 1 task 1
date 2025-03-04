@@ -1,0 +1,37 @@
+Task: Write examples of how each layer applies to real-world scenarios (e.g., HTTP at the Application Layer, TCP at the Transport Layer).
+
+Solution : Here are examples of how each layer in the OSI model applies to real-world scenarios:
+1 Application Layer (Layer 7)
+Example: HTTP (Hypertext Transfer Protocol)
+Real-World Scenario: This layer is like the person sending a letter to someone. They write the message (data), 
+put it in an envelope, and specify the recipient's address (URL).
+
+2 Presentation Layer (Layer 6)
+Example: Encryption (SSL/TLS)
+Real-World Scenario: This layer is like setting up a meeting room. The session initiates the call,
+maintains the connection, and ensures the conversation goes smoothly.
+
+3 Session Layer (Layer 5)
+Example: Managing Connections in Video Conferencing (e.g., Zoom)
+Real-World Scenario: This layer is like setting up a meeting room. The session initiates the call, 
+maintains the connection, and ensures the conversation goes smoothly.
+
+4 Transport Layer (Layer 4)
+Example: TCP (Transmission Control Protocol)
+Real-World Scenario: It's like sending packages via a courier service. The service guarantees that packages (data) 
+will arrive in order and without damage.
+
+5 Network layer (Layer 3)
+Example: IP (Internet Protocol)
+Real-World Scenario: It's like the postal system that uses the address on the letter to determine the 
+route and deliver it to the correct recipient.
+
+6 Data Link Layer (Layer 2)
+Example: Ethernet (MAC Addresses)
+Real-World Scenario: It's like having a package delivered to a specific apartment within a building, 
+using the building's internal system to direct the package to the correct floor and room.
+
+7 Physical Layer (Layer 1)
+Example: Cabling (Fiber Optic, Wi-Fi)
+Real-World Scenario: This layer is like the roads or highways that connect different areas. The vehicles (data) travel over these roads,
+but the roads themselves are just the physical infrastructure.
